@@ -1,0 +1,3 @@
+To jest plik z danymi.
+Jacek mnie uczy.
+Python jest zakodowany.
