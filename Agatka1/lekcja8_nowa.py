@@ -16,7 +16,10 @@ def znajdz_autora_i_zsumuj_go(nazwa_pliku, autor_do_sumowania):
                 cenasumowana=cena
                 suma=cenasumowana+suma
 
-     return suma
+    return suma
+
+sumaLemiBrzechwa=znajdz_autora_i_zsumuj_go("books3.csv", "Lem")+znajdz_autora_i_zsumuj_go("books3.csv", "Brzechwa")
+print (f"Suma cen książek Lema i Brzechwa wynosi {sumaLemiBrzechwa} zł.")
 
 
 
