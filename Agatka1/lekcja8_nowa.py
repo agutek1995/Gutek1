@@ -16,7 +16,7 @@ def znajdz_autora_i_zsumuj_go(nazwa_pliku, autor_do_sumowania):
                 cenasumowana=cena
                 suma=cenasumowana+suma
 
-    print(f"Suma cen książek {autor_do_sumowania} wynosi {suma}")
+     return suma
 
 
 
