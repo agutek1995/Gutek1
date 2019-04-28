@@ -1,0 +1,16 @@
+Umiejętności:
+ - znajomość podstawy Python 2.7 i PYthon 3.6
+ - znajomość podstawowych bibliotek Pythona
+ - podstawy algorytmiki
+ - programistyczne manipulowanie tekstami w języku Python z wokorzystaniem jego biblioteki standardowej
+ - umiejętość posługiwania się system kontroli wersji git, w tym korzystanie z serwisu github
+ - obsługa linuxowego terminala:
+      - doświadczenia ze studiów
+	  - doświadczenia z prywatnych projektów
+ - obłsuga PyCharma oraz znajomość skrótów klawiszowych przysieszających pracę nad kodem
+
+Wykonane projekty:
+ - projekty ze studiów:
+    - przetwarzanie i wizualizacja danych - wizualne prezentowanie danych przy użyciu Pythonn
+	   praktyczne wykorzystanie matplotlib
+... 
